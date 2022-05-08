@@ -5,30 +5,30 @@
 div.highlighter-rouge, figure.highlight {
   position: relative;
   margin-bottom: 1em;
-  padding: 1em;
+  padding: 0.5em;
   border: 1px solid $border-color;
   border-radius: $border-radius;
   background-color: $code-background-color;
   box-shadow: $box-shadow;
 
-  &:before {
-    position: absolute;
-    top: 0;
-    right: 0;
-    padding: 0.5em;
-    background-color: $lighter-gray;
-    content: "\f121";
-    font-family: "fontawesome" !important;
-    font-size: $type-size-6;
-    line-height: 1;
-    text-transform: none;
-    speak: none;
-  }
+  // &:before {
+  //   position: absolute;
+  //   top: 0;
+  //   right: 0;
+  //   padding: 0.5em;
+  //   background-color: $lighter-gray;
+  //   content: "\f121";
+  //   font-family: "fontawesome" !important;
+  //   font-size: $type-size-6;
+  //   line-height: 1;
+  //   text-transform: none;
+  //   speak: none;
+  // }
 
   .highlight {
     margin: 0;
     font-family: $monospace;
-    font-size: $type-size-7;
+    font-size: $type-size-6;
     line-height: 1.8;
   }
 }

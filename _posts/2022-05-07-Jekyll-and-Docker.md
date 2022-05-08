@@ -10,7 +10,7 @@ CLI for running Jekyll and debug my personal page locally with Docker.
 I'm using an Apple Silicon M1 MBP and I failed to install Ruby with Homebrew (see [this post](https://www.earthinversion.com/blogging/how-to-install-jekyll-on-appple-m1-macbook/)). The problem was that I couldn't install RubyGems `racc` and I really don't know how to fix that. So I decided to run Jekyll as a container with [Docker](https://github.com/envygeeks/jekyll-docker/blob/master/README.md). The following commands helps me setup everything.
 
 Initialization. Either fork this great [academicpages](https://academicpages.github.io/) template to your own github repo and clone it, or run
-``` bash
+```bash
 docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/jekyll sh -c "chown -R jekyll /usr/gem/ && jekyll new folder_name"
 ```
 
