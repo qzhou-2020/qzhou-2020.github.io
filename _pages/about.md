@@ -14,7 +14,7 @@ Hi there! I'm Quan, a 4th year Ph.D. student in Operations Management at [Desaut
 
 ## Working papers
 
-* with Mehmet Gumus, Sentao Miao, "E-commerce Order Fulfillment Problem with Limited Time Window." ([SSRN](http://dx.doi.org/10.2139/ssrn.4547699){:target="_blank"})
+* with Mehmet Gumus, Sentao Miao, "E-commerce Order Fulfillment Problem with Limited Time Window." (2023) Major revisioin at **_Operations Research_**. ([SSRN](http://dx.doi.org/10.2139/ssrn.4547699){:target="_blank"})
 
 ## Teaching
 
