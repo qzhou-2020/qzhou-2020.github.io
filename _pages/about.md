@@ -21,7 +21,7 @@ Hi there! I'm Quan, a 4th year Ph.D. student in Operations Management at [Desaut
 ## Teaching
 
 * Instructor, McGill University, Desautels Faculty of Management
-  + Operations Management, undergrad, Summer 2024, (evaluation 4.5/5)
+  + Operations Management, Summer 2024: __4.5 / 5__
 
 * Teaching Assistant, McGill University, Desautels Faculty of Management
   + Decision Analytics and Modelling for Operations, master, Winter 2023
