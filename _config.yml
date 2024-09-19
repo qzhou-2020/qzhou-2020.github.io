@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "Qp7oa1iv69fVq3fQOh2swlodv8Cvz8nyI9H-plYXHpM"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -266,6 +266,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-jupyter-notebook
+  - jekyll-seo-tag # google search.
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate

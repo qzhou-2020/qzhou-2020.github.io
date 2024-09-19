@@ -25,6 +25,8 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
   gem "jekyll-jupyter-notebook"
+  # google SEO 
+  gem 'jekyll-seo-tag'
 end
 
 gem "webrick", "~> 1.7"
