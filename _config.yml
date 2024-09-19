@@ -86,7 +86,7 @@ author:
   location         : "Montreal, CA"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.ca/citations?user=325mrEIAAAAJ&hl=en"
   email            : "quan.zhou.2020@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "qzhou-2020/qzhou-2020.github.io"
+  github           : "qzhou-2020"
   google_plus      :
   keybase          :
   instagram        :

@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Quan, a 4th year Ph.D. student in Operations Management at [Desautels Faculty of Management](https://www.mcgill.ca/desautels/quan-zhou){:target="_blank"}, McGill University. I received my M.Eng from Memorial University of Newfoundland, my B.S. in Ocean Engineering from Shanghai Jiao Tong University. Before joining the Ph.D. program at McGill, I worked as an engineer and programmer for Memorial University as well as a startup for six years.
+Hi there! I'm Quan, a 5th-year Ph.D. student in Operations Management at Desautels Faculty of Management, McGill University, under the supervision of [Prof. Mehmet Gumus](https://www.mcgill.ca/desautels/mehmet-gumus){:target="_blank"} and [Prof. Sentao Miao](https://sites.google.com/umich.edu/sentaomiao/home){:target="_blank"}.
+
+I received my M.Eng from Memorial University of Newfoundland and my B.S. in Ocean Engineering from Shanghai Jiao Tong University. Before joining the Ph.D. program at McGill, I worked as an engineer and programmer for Memorial University and a startup for six years.
+
+My research addresses business operational challenges by leveraging optimization, algorithm design, and other operations research tools to improve business performance and benefit customers.
 
 [[CV](https://www.dropbox.com/scl/fi/pfvm62sc7ey875vfsnzl5/CV.pdf?rlkey=hcwzon1pvlvis72pzfwfh5j84&dl=0){:target="_blank"}]
 
