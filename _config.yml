@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Quan Zhou"
-title_separator          : "-"
+title                    : "Quan Zhou, Ph.D. Student in Operations Management, McGill University"
+title_separator          : "|"
 name                     : &name "Quan Zhou"
-description              : &description "Ph.D. student in OM, Desautels Faculty of Management, McGill University."
+description              : &description "Quan Zhou's personal academic website. Ph.D. student in Operations Management at McGill University."
 url                      : https://qzhou-2020.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qzhou-2020/qzhou-2020.github.io"

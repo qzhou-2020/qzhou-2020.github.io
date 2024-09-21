@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Welcome to my homepage!"
-excerpt: "About me"
+title: "Quan Zhou"
+excerpt: "Quan Zhou, Ph.D. student in Operations Management, McGill University"
 author_profile: true
 redirect_from: 
   - /about/

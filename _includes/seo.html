@@ -116,10 +116,13 @@
   <script type="application/ld+json">
     {
       "@context" : "http://schema.org",
-      "@type" : "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
-      "name" : "{{ site.social.name | default: site.name }}",
-      "url" : {{ seo_url | jsonify }},
-      "sameAs" : {{ site.social.links | jsonify }}
+      "@type" : "Person",
+      "name" : "{{ site.name }}",
+      "url" : "{{ site.url }}",
+      "sameAs" : [
+        "{{ site.author.googlescholar }}",
+        "{{ site.author.github }}"
+      ]
     }
   </script>
 {% endif %}
