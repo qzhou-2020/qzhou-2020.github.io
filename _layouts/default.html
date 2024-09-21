@@ -5,7 +5,7 @@ layout: compress
 {% include base_path %}
 
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
@@ -15,12 +15,14 @@ layout: compress
 
     <meta name="google-site-verification" content="Qp7oa1iv69fVq3fQOh2swlodv8Cvz8nyI9H-plYXHpM" />
 
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+
   </head>
 
   <body>
 
     {% include browser-upgrade.html %}
-    <!-- {% include masthead.html %} -->
+    {% include masthead.html %}
 
     {{ content }}
 
