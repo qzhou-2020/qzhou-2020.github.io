@@ -8,18 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Quan, a 5th-year Ph.D. student in Operations Management at Desautels Faculty of Management, McGill University, under the supervision of [Prof. Mehmet Gumus](https://www.mcgill.ca/desautels/mehmet-gumus){:target="_blank"} and [Prof. Sentao Miao](https://sites.google.com/umich.edu/sentaomiao/home){:target="_blank"}. I received my M.Eng from Memorial University of Newfoundland and my B.S. in Ocean Engineering from Shanghai Jiao Tong University. Before joining the Ph.D. program at McGill, I worked as an engineer and programmer for Memorial University and a startup for six years.
+Hi! I'm Quan, a final-year Ph.D. student in Operations Management at Desautels Faculty of Management, McGill University, under the supervision of [Prof. Mehmet Gumus](https://www.mcgill.ca/desautels/mehmet-gumus){:target="_blank"} and [Prof. Sentao Miao](https://sites.google.com/umich.edu/sentaomiao/home){:target="_blank"}. I received my M.Eng from Memorial University of Newfoundland and my B.S. in Ocean Engineering from Shanghai Jiao Tong University. Before joining the Ph.D. program at McGill, I worked as an engineer and programmer for Memorial University and a startup for six years.
 
 I am passionate about addressing business operational challenges through optimization, algorithm design, and other operations research tools. My current research focuses on revenue management and supply chain management, driven by real-world problems in e-commerce and platform services.
 
 
 <!-- ## Research interests -->
 
+## Publication
+
+* with Mehmet Gumus, Sentao Miao, "E-commerce Order Fulfillment Problem with Limited Time Window." (2025) Accepted at **_Operations Research_**. ([SSRN](http://dx.doi.org/10.2139/ssrn.4547699){:target="_blank"})
+
+
 ## Working papers
 
 * with Mehmet Gumus, Sentao Miao, "Beyond One-Size-Fits-All: Personalized Delivery and Fulfillment Optimisation," (2024) Reject & Resubmit at **_Operations Research_**, ([SSRN](https://dx.doi.org/10.2139/ssrn.4731673){:target="_blank"})
 
-* with Mehmet Gumus, Sentao Miao, "E-commerce Order Fulfillment Problem with Limited Time Window." (2023) 2nd round major revisioin at **_Operations Research_**. ([SSRN](http://dx.doi.org/10.2139/ssrn.4547699){:target="_blank"})
+* with Jenny Jin, Animesh Animesh, Mehmet Gumus, "Threshold Economics: Unintented Consequences of Free-shipping Policy Adjustments."
+  * Accepted for presentation at MSOM 2025 (poster), SCECR 2025, CORS 2025, RMP 2025
+
+* with Kevin Chen, Anran Li, Zhe Liu, "Trip Radar: a Controlled Decentralized System to Enhance Matchmaking in Ride-Hailing."
+  * Accepted for presentation at MSOM 2025
 
 ## Teaching
 
