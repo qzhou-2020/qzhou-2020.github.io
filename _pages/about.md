@@ -28,7 +28,7 @@ I am passionate about addressing business operational challenges through optimiz
   * Accepted for presentation at MSOM 2025 (poster), SCECR 2025, CORS 2025, RMP 2025
 
 * with Kevin Chen, Anran Li, Zhe Liu, "Trip Radar: a Controlled Decentralized System to Enhance Matchmaking in Ride-Hailing."
-  * Accepted for presentation at MSOM 2025
+  * Accepted for presentation at MSOM 2025, RMP 2025
 
 ## Teaching
 
