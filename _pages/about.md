@@ -12,7 +12,7 @@ Hi! I'm Quan, a final-year Ph.D. student in Operations Management at Desautels F
 
 I am passionate about addressing operational challenges arising from the adoption of emerging technologies, with a focus on optimization, algorithm design, and empirical analysis. I pursue two interconnected streams. The first stream focuses on improving complex supply chain operations for small and medium-sized e-commerce businesses, and the second stream focuses on enhancing platform services in domains such as ride-hailing and fresh food e-commerce.
 
-__I'm on the 2025-2026 job market!__ I will present my job market paper, _Beyond One-Size-Fits-All: Personalized Delivery and Fulfillment Optimisation_, at
+__I'm on the 2025-2026 job market!__ I will present my job market paper at
 
 * Analytics for X 2025 Conference, Singapore
   * September 26-27, NUS Innovation 4.0.
