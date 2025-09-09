@@ -18,7 +18,7 @@ __I'm on the 2025-2026 job market!__ I will present my job market paper, _Beyond
   * September 26-27, NUS Innovation 4.0.
 
 * INFORMS Annual Meeting 2025, Atlanta
-  * October 26, 3:39 pm - 3.57 pm, Bldg A Lvl 3 A316. Job Market Showcase Session (Novel Problems in Revenue Management)
+  * October 26, 3:39 pm - 3:57 pm, Bldg A Lvl 3 A316. Job Market Showcase Session (Novel Problems in Revenue Management)
 
 <!-- ## Research interests -->
 
