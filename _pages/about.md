@@ -29,7 +29,7 @@ __I'm on the 2025-2026 job market!__ I will present my job market paper at
 
 ## Working papers
 
-* with Mehmet Gumus, Sentao Miao, "Beyond One-Size-Fits-All: Personalized Delivery and Fulfillment Optimisation," (2024) Reject & Resubmit at **_Operations Research_**, ([SSRN](https://dx.doi.org/10.2139/ssrn.4731673){:target="_blank"})
+* with Mehmet Gumus, Sentao Miao, "Beyond One-Size-Fits-All: Personalized Delivery and Fulfillment Optimisation," (2024) Major Revision at **_Operations Research_**, ([SSRN](https://dx.doi.org/10.2139/ssrn.4731673){:target="_blank"})
 
 * with Jenny Jin, Animesh Animesh, Mehmet Gumus, "Threshold Economics: Unintented Consequences of Free-shipping Policy Adjustments."
   * Prepare for submission
