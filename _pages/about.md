@@ -12,13 +12,11 @@ Hi! I'm Quan, a final-year Ph.D. student in Operations Management at Desautels F
 
 I am passionate about addressing operational challenges arising from the adoption of emerging technologies, with a focus on optimization, algorithm design, and empirical analysis. I pursue two interconnected streams. The first stream focuses on improving complex supply chain operations for small and medium-sized e-commerce businesses, and the second stream focuses on enhancing platform services in domains such as ride-hailing and fresh food e-commerce.
 
-__I'm on the 2025-2026 job market!__ I will present my job market paper at
-
-* Analytics for X 2025 Conference, Singapore
-  * September 26-27, NUS Innovation 4.0.
+__I'm on the 2025-2026 job market!__ I will present at
 
 * INFORMS Annual Meeting 2025, Atlanta
   * October 26, 3:39 pm - 3:57 pm, Bldg A Lvl 3 A316. Job Market Showcase Session (Novel Problems in Revenue Management)
+
 
 <!-- ## Research interests -->
 
@@ -33,7 +31,7 @@ __I'm on the 2025-2026 job market!__ I will present my job market paper at
 
 * with Jenny Jin, Animesh Animesh, Mehmet Gumus, "Threshold Economics: Unintented Consequences of Free-shipping Policy Adjustments."
   * Prepare for submission
-  * Accepted for presentation at MSOM 2025 (poster), SCECR 2025, CORS 2025, RMP 2025
+  * Accepted for presentation at MSOM 2025 (poster), SCECR 2025, CORS 2025, RMP 2025, ISS-ISR Workshop (CIST 20205), WISE 2025
 
 * with Kevin Chen, Anran Li, Zhe Liu, "Trip Radar: a Controlled Decentralized System to Enhance Matchmaking in Ride-Hailing."
   * Accepted for presentation at MSOM 2025, RMP 2025
