@@ -31,7 +31,7 @@ __I'm on the 2025-2026 job market!__ I will present at
 
 * with Jenny Jin, Animesh Animesh, Mehmet Gumus, "Threshold Economics: Unintented Consequences of Free-shipping Policy Adjustments."
   * Prepare for submission
-  * Accepted for presentation at MSOM 2025 (poster), SCECR 2025, CORS 2025, RMP 2025, ISS-ISR Workshop (CIST 20205), WISE 2025
+  * Accepted for presentation at MSOM 2025 (poster), SCECR 2025, CORS 2025, RMP 2025, ISR author development workshop 2025, WISE 2025
 
 * with Kevin Chen, Anran Li, Zhe Liu, "Trip Radar: a Controlled Decentralized System to Enhance Matchmaking in Ride-Hailing."
   * Accepted for presentation at MSOM 2025, RMP 2025
