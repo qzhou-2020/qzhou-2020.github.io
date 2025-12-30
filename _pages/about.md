@@ -12,28 +12,26 @@ Hi! I'm Quan, a final-year Ph.D. student in Operations Management at Desautels F
 
 I am passionate about addressing operational challenges arising from the adoption of emerging technologies, with a focus on optimization, algorithm design, and empirical analysis. I pursue two interconnected streams. The first stream focuses on improving complex supply chain operations for small and medium-sized e-commerce businesses, and the second stream focuses on enhancing platform services in domains such as ride-hailing and fresh food e-commerce.
 
-__I'm on the 2025-2026 job market!__ I will present at
-
-* INFORMS Annual Meeting 2025, Atlanta
-  * October 26, 3:39 pm - 3:57 pm, Bldg A Lvl 3 A316. Job Market Showcase Session (Novel Problems in Revenue Management)
+__I'm on the 2025-2026 job market!__ 
 
 
 <!-- ## Research interests -->
 
 ## Publication
 
-* with Mehmet Gumus, Sentao Miao, "E-commerce Order Fulfillment Problem with Limited Time Window." (2025) Accepted at **_Operations Research_**. ([SSRN](http://dx.doi.org/10.2139/ssrn.4547699){:target="_blank"})
+* __Quan Zhou__, Mehmet Gümüş, Sentao Miao (2025) E-Commerce Order Fulfillment Problem with Limited Time Window. Operations Research 73(6):2914-2932. [[journal](https://doi.org/10.1287/opre.2023.0453){:target="_blank"}] [[SSRN](http://dx.doi.org/10.2139/ssrn.4547699){:target="_blank"}]
 
 
 ## Working papers
 
-* with Mehmet Gumus, Sentao Miao, "Beyond One-Size-Fits-All: Personalized Delivery and Fulfillment Optimisation," (2024) Major Revision at **_Operations Research_**, ([SSRN](https://dx.doi.org/10.2139/ssrn.4731673){:target="_blank"})
+* with Mehmet Gümüş, Sentao Miao, "Beyond One-Size-Fits-All: Personalized Delivery and Fulfillment Optimisation," (2024) Major Revision at **_Operations Research_**, ([SSRN](https://dx.doi.org/10.2139/ssrn.4731673){:target="_blank"})
 
-* with Jenny Jin, Animesh Animesh, Mehmet Gumus, "Threshold Economics: Unintented Consequences of Free-shipping Policy Adjustments."
-  * Prepare for submission
+* with Jenny Jin, Animesh Animesh, Mehmet Gümüş, "Threshold Economics: Unintented Consequences of Free-shipping Policy Adjustments."
+  * To be submitted soon
   * Accepted for presentation at MSOM 2025 (poster), SCECR 2025, CORS 2025, RMP 2025, ISR author development workshop 2025, WISE 2025
 
 * with Kevin Chen, Anran Li, Zhe Liu, "Trip Radar: a Controlled Decentralized System to Enhance Matchmaking in Ride-Hailing."
+  * In preparation
   * Accepted for presentation at MSOM 2025, RMP 2025
 
 ## Teaching
