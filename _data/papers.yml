@@ -1,0 +1,24 @@
+- title: 'E-Commerce Order Fulfillment Problem with Limited Time Window'
+  citation: "Quan Zhou, Mehmet Gümüş, Sentao Miao (2025) E-Commerce Order Fulfillment Problem with Limited Time Window. Operations Research 73(6):2914-2932."
+  paperurl: "https://doi.org/10.1287/opre.2023.0453"
+  status: "Published"
+
+- title: 'Beyond One-Size-Fits-All: Personalized Delivery and Fulfillment Optimization'
+  citation: "Quan Zhou, Mehmet Gümüş, Sentao Miao (2025) Beyond One-Size-Fits-All: Personalized Delivery and Fulfillment Optimization. Major revision at Operations Research."
+  paperurl: "https://dx.doi.org/10.2139/ssrn.4731673"
+  status: "Under Review"
+
+- title: "How to (and How Not to) Increase Free-Shipping Thresholds: Evidence from Online Retail"
+  date: 2026-01-29
+  excerpt: 
+    - "With Qianran (Jenny) Jin, Mehmet Gümüş, Animesh Animesh"
+    - "Prepare for submission"
+    - "Accepted for presentation at MSOM 2025, SCECR 2025, CORS 2025, RMP 2025, ISR author development workshop 2025, WISE 2025, POMSHK 2026 "
+  status: "Working"
+
+- title: "Trip Radar: a Controlled Decentralized System to Enhance Matchmaking in Ride-Hailing"
+  date: 2025-02-07
+  excerpt: 
+    - "With Hongfan (Kevin) Chen, Anran Li, Zhe Liu"
+    - "Accepted for presentation at MSOM 2025, RMP 2025"
+  status: "Working"

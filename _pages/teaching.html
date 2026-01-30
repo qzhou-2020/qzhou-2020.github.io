@@ -5,8 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+<ul style="margin-top: 2.5em; padding-left: 1.5em;">
+{% for entry in site.data.teaching %}
+<li style="margin-bottom: 0.5em;"><strong>{{ entry.role }}</strong>, {{ entry.institution }}
+<ul style="margin-top: 0.25em; padding-left: 1.5em; list-style-type: circle;">
+{% for course in entry.courses %}
+<li style="margin: 0; padding: 0;">{{ course.name }}{% if course.level %}, {{ course.level }}{% endif %}, {{ course.term }}{% if course.rating %}: <strong>{{ course.rating }}</strong>{% endif %}</li>
 {% endfor %}
+</ul>
+</li>
+{% endfor %}
+</ul>
