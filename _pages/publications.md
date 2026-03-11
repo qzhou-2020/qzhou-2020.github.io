@@ -34,6 +34,13 @@ author_profile: true
     {{ counter }}. {{ post.citation | replace: author_name, bold_name}}
     {% if post.paperurl %} <a href="{{ post.paperurl }}">[DOI]</a>{% endif %}
   </p>
+  {% if post.excerpt %}
+    <ul style="margin-top: 0em; margin-bottom: 0em;">
+    {% for item in post.excerpt %}
+    <li style="margin-bottom: 0.1em;">{{ item }}</li>
+    {% endfor %}
+    </ul>
+  {% endif %}
 {% endfor %}
 
 {% for post in working_papers %}
