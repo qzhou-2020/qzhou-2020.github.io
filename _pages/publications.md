@@ -29,17 +29,17 @@ author_profile: true
 
 {% assign counter = 0 %}
 {% for post in under_review %}
-  {% assign counter = counter | plus: 1 %}
-  <p style="margin-top: 1em; margin-bottom: 0em;">
-    {{ counter }}. {{ post.citation | replace: author_name, bold_name}}
-    {% if post.paperurl %} <a href="{{ post.paperurl }}">[DOI]</a>{% endif %}
-  </p>
-  {% if post.excerpt %}
-  <ul style="margin-top: 0em; margin-bottom: 0em;">
-  {% for item in post.excerpt %}
-  <li style="margin-bottom: 0.1em;">{{ item }}</li>
-  {% endfor %}
-  </ul>
+{% assign counter = counter | plus: 1 %}
+<p style="margin-top: 1em; margin-bottom: 0em;">
+{{ counter }}. {{ post.citation | replace: author_name, bold_name}}
+{% if post.paperurl %} <a href="{{ post.paperurl }}">[DOI]</a>{% endif %}
+</p>
+{% if post.excerpt %}
+<ul style="margin-top: 0em; margin-bottom: 0em;">
+{% for item in post.excerpt %}
+<li style="margin-bottom: 0.1em;">{{ item }}</li>
+{% endfor %}
+</ul>
 {% endif %}
 {% endfor %}
 
